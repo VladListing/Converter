@@ -15,3 +15,4 @@ D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\GeneratorBinaryFiles\obj\Re
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\GeneratorBinaryFiles\obj\Release\Generator  binary files.pdb
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\GeneratorBinaryFiles\bin\Release\Generator  binary files.exe
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\GeneratorBinaryFiles\bin\Release\Generator  binary files.pdb
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\GeneratorBinaryFiles\obj\Release\GeneratorBinaryFiles.csprojResolveAssemblyReference.cache
