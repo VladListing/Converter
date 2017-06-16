@@ -1,0 +1,8 @@
+D:\_LISTING_\GIT\Prod\Conversion-from-binary-to-csv\Conversion from binary to csv\Generator  binary files\bin\Release\Generator  binary files.exe.config
+D:\_LISTING_\GIT\Prod\Conversion-from-binary-to-csv\Conversion from binary to csv\Generator  binary files\bin\Release\Generator  binary files.exe
+D:\_LISTING_\GIT\Prod\Conversion-from-binary-to-csv\Conversion from binary to csv\Generator  binary files\bin\Release\Generator  binary files.pdb
+D:\_LISTING_\GIT\Prod\Conversion-from-binary-to-csv\Conversion from binary to csv\Generator  binary files\bin\Release\Converter from binary to csv.exe
+D:\_LISTING_\GIT\Prod\Conversion-from-binary-to-csv\Conversion from binary to csv\Generator  binary files\bin\Release\Converter from binary to csv.pdb
+D:\_LISTING_\GIT\Prod\Conversion-from-binary-to-csv\Conversion from binary to csv\Generator  binary files\obj\Release\Generator  binary files.csprojResolveAssemblyReference.cache
+D:\_LISTING_\GIT\Prod\Conversion-from-binary-to-csv\Conversion from binary to csv\Generator  binary files\obj\Release\Generator  binary files.exe
+D:\_LISTING_\GIT\Prod\Conversion-from-binary-to-csv\Conversion from binary to csv\Generator  binary files\obj\Release\Generator  binary files.pdb

@@ -1,0 +1,32 @@
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting\bin\Release\Converting.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting\bin\Release\Converting.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting\bin\Release\Converting_BinaryToCSV.dll
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting\bin\Release\Converting_BinaryToCSV.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting\obj\x86\Release\Converting.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting\obj\x86\Release\Converting.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\Converting_BinaryToCSV\Converting\bin\Release\Converting.exe.config
+D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting\bin\Release\Converting.exe.config
+D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting\obj\x86\Release\Converting.exe
+D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting\obj\x86\Release\Converting.pdb
+D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting\bin\Release\Converting.exe
+D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting\bin\Release\Converting.pdb
+D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting\bin\Release\Converting_BinaryToCSV.dll
+D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting\bin\Release\Converting_BinaryToCSV.pdb
+D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting\obj\x86\Release\Converting.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\ConvertingBinaryToCSV_11-06-2017\Converting\bin\Release\Converting.exe.config
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\ConvertingBinaryToCSV_11-06-2017\Converting\bin\Release\Converting.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\ConvertingBinaryToCSV_11-06-2017\Converting\bin\Release\Converting.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\ConvertingBinaryToCSV_11-06-2017\Converting\bin\Release\Converting_BinaryToCSV.dll
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\ConvertingBinaryToCSV_11-06-2017\Converting\bin\Release\Converting_BinaryToCSV.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\ConvertingBinaryToCSV_11-06-2017\Converting\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\ConvertingBinaryToCSV_11-06-2017\Converting\obj\x86\Release\Converting.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\ConvertingBinaryToCSV_11-06-2017\Converting\obj\x86\Release\Converting.pdb
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting.exe.config
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting.exe
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting.pdb
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting_BinaryToCSV.dll
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting_BinaryToCSV.pdb
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\obj\x86\Release\ResolveAssemblyReference.cache
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\obj\x86\Release\Converting.exe
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\obj\x86\Release\Converting.pdb

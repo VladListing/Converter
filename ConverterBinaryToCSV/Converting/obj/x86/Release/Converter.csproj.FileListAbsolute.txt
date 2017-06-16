@@ -1,0 +1,16 @@
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting.exe.config
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting.exe
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting.pdb
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting_BinaryToCSV.dll
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\bin\Release\Converting_BinaryToCSV.pdb
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\obj\x86\Release\ResolveAssemblyReference.cache
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\obj\x86\Release\Converting.exe
+G:\DUMP\_ПРОГРАММИНГ_\ООП\Тестов. Задан\_РЕАЛИЗАЦИИ\ConvertingBinaryToCSV_12-06-2017\Converting\obj\x86\Release\Converting.pdb
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\Converting\bin\Release\Converting.exe.config
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\Converting\obj\x86\Release\Converting.exe
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\Converting\obj\x86\Release\Converting.pdb
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\Converting\bin\Release\Converting.exe
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\Converting\bin\Release\Converting.pdb
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\Converting\bin\Release\Converting_BinaryToCSV.dll
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\Converting\bin\Release\Converting_BinaryToCSV.pdb
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\Converting\obj\x86\Release\Converter.csprojResolveAssemblyReference.cache
