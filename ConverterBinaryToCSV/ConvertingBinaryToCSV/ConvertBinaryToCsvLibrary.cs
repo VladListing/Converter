@@ -2,8 +2,7 @@
 using System.IO;
 using System.Text;
 using System.Threading;
-using ConvertingBinaryToCsv_Library;
-
+using BinaryFilesConvertor;
 
 
 namespace ConvertingBinaryToCsvLibrary
@@ -11,6 +10,9 @@ namespace ConvertingBinaryToCsvLibrary
     //библиотека 'ConvertBinaryToCsvLibrary' реализует 
     //чтение из бинарного файла с последующей конвертацией в CSV файл.
 
+        /// <summary>
+        /// 
+        /// </summary>
     public class ConvertBinaryToCsvLibrary : IBinaryToCsv
     {
         private string pathBinary;   //путь и имя исходного бинарного файла
@@ -22,12 +24,20 @@ namespace ConvertingBinaryToCsvLibrary
         private string comment = ""; //колонка "comment"
         
         private int counter = 0;     //счетчик записаных строк
-        
+
+        private const double ByteToMegabyteKoef = 1 / 1048576.0;
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="pathDat"></param>
+        /// <param name="pathCsv"></param>
         public void FromBinaryFileToCsv(string pathDat, string pathCsv)
         {
             this.pathBinary = pathDat;
             this.pathCsv = pathCsv;
             
+            //todo: вот консоль тут уже совершенно ни при чём, а если мы решим использовать библиотеку в оконном приложении
             Console.SetWindowSize(90,20);
 
             Thread f = Thread.CurrentThread;
@@ -40,12 +50,11 @@ namespace ConvertingBinaryToCsvLibrary
             
             try
             {
-                ProcessMapping processMapping = new ProcessMapping();
-                long initialValue = new FileInfo(pathDat).Length;
+                ProcessMappingBase processMapping = new ProcessConvertionMapping(pathDat, pathCsv);
                 using (BinaryReader reader = new BinaryReader(File.Open(this.pathBinary, FileMode.Open), Encoding.ASCII))
                 using (System.IO.StreamWriter file = new System.IO.StreamWriter(this.pathCsv))
                 {
-                    Console.WriteLine("Ждите, выполняется конвертация из бинарного файла: {0} , размером: {1} Mb", this.pathBinary, initialValue/1048576);
+                    Console.WriteLine($"Ждите, выполняется конвертация из бинарного файла: {pathBinary} , размером: Mb");
                     Console.WriteLine("в файл с разделителями: {0} ", this.pathCsv);
                     Console.WriteLine();
                     
@@ -69,7 +78,7 @@ namespace ConvertingBinaryToCsvLibrary
                         counter++;
 
                         //процент выполнения    
-                        processMapping.processMappingInPercent( initialValue, pathCsv, 1.1 , true);                    
+                        processMapping.ProcessMappingInPercent();                    
                     }                    
                         Console.Write("\r");
                         Console.Write("выполнено: 100 % ");

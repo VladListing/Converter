@@ -60,7 +60,6 @@
   <ItemGroup>
     <Compile Include="BinaryFiles.cs" />
     <Compile Include="InputValidation.cs" />
-    <Compile Include="ProcessMapping.cs" />
     <Compile Include="RandomString.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -89,6 +88,12 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{d6303c92-f193-49a8-b194-8f23d0e364b4}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -11,6 +11,10 @@ namespace GeneratorBinaryFiles
         private string stringsKey = ""; //введенное число (предварительно)
         private long checkedNumber;     //проверенное введеное число
 
+        //from symbols table
+        private const char ZeroChar = '0';
+        private const char NineChar = (char)57;
+
         public long GetInputValidationKey()
         {
             Console.WriteLine("");
@@ -24,7 +28,7 @@ namespace GeneratorBinaryFiles
                 if (Console.KeyAvailable == true)
                 {                    
                     charNum = (int)Console.ReadKey().KeyChar;
-                    if (charNum >= 48 && charNum <= 57)
+                    if (charNum >= ZeroChar && charNum <= NineChar)
                     {
                         stringsKey += (char)charNum;
                         counter++;
@@ -47,5 +51,24 @@ namespace GeneratorBinaryFiles
             }
             return checkedNumber;
         }
+
+        public static uint GetCountFromUser()
+        {
+            Console.WriteLine("Enter entries count:");
+            while(true)
+            {
+                var inputStr = Console.ReadLine();
+                uint result;
+                if (uint.TryParse(inputStr, out result))
+                {
+                    return result;
+                }
+                else
+                {
+                    Console.WriteLine($"Incorrect input format: '{inputStr}'. Please try again using only integer positive numbers:");
+                }
+            }
+        }
+
     }
 }
