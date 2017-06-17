@@ -1,6 +1,0 @@
-D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting_BinaryToCSV\bin\Release\Converting_BinaryToCSV.dll.config
-D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting_BinaryToCSV\bin\Release\Converting_BinaryToCSV.dll
-D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting_BinaryToCSV\bin\Release\Converting_BinaryToCSV.pdb
-D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting_BinaryToCSV\obj\Release\Converting_BinaryToCSV_Library.csprojResolveAssemblyReference.cache
-D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting_BinaryToCSV\obj\Release\Converting_BinaryToCSV.dll
-D:\_LISTING_\GIT\Prod\Converting_BinaryToCSV\Converting_BinaryToCSV\obj\Release\Converting_BinaryToCSV.pdb

@@ -1,6 +1,0 @@
-C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting_BinaryToCSV\bin\Debug\Converting_BinaryToCSV.dll.config
-C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting_BinaryToCSV\bin\Debug\Converting_BinaryToCSV.dll
-C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting_BinaryToCSV\bin\Debug\Converting_BinaryToCSV.pdb
-C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting_BinaryToCSV\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting_BinaryToCSV\obj\Debug\Converting_BinaryToCSV.dll
-C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Converting_BinaryToCSV\Converting_BinaryToCSV\obj\Debug\Converting_BinaryToCSV.pdb
