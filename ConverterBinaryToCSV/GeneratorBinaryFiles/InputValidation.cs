@@ -9,14 +9,14 @@ namespace GeneratorBinaryFiles
     
     class InputValidation
     {
-        private int counter = 0;          //счетчик введеных символов
-        private int charNum = 0;          //номер по таблице символов
-        private string stringsKey = null; //введенное число (предварительно)
-        private long checkedNumber = 0;   //проверенное введеное число
+        private int _counter = 0;          //счетчик введеных символов
+        private int _charNum = 0;          //номер по таблице символов
+        private string _stringsKey = null; //введенное число (предварительно)
+        private long _checkedNumber = 0;   //проверенное введеное число
 
         //из таблици символов Юникода
-        private const char zeroChar = (char) 48;
-        private const char nineChar = (char) 57;
+        private const char _zeroChar = (char) 48;
+        private const char _nineChar = (char) 57;
 
         public long GetInputValidationKey()
         {
@@ -30,16 +30,16 @@ namespace GeneratorBinaryFiles
             {
                 if (Console.KeyAvailable == true)
                 {
-                    charNum = (int)Console.ReadKey().KeyChar;
-                    if (charNum >= 48 && charNum <= 57)
+                    _charNum = (int)Console.ReadKey().KeyChar;
+                    if (_charNum >= 48 && _charNum <= 57)
                     {
-                        stringsKey += (char)charNum;
-                        counter++;
+                        _stringsKey += (char)_charNum;
+                        _counter++;
                     }
                     else
                     {
-                        counter = 0;
-                        stringsKey = "";
+                        _counter = 0;
+                        _stringsKey = null;
                         Console.Write("\r");
                         Console.Write("Ошибка, введите целое положительное число:");
                         Console.WriteLine();
@@ -48,11 +48,11 @@ namespace GeneratorBinaryFiles
                     any = Console.ReadKey(true);
                 }
             }
-            if (counter != 0 && any.Key == ConsoleKey.Enter)
+            if (_counter != 0 && any.Key == ConsoleKey.Enter)
             {
-                checkedNumber = Convert.ToInt32(stringsKey);
+                _checkedNumber = Convert.ToInt32(_stringsKey);
             }
-            return checkedNumber;
+            return _checkedNumber;
         }
     }
 }
