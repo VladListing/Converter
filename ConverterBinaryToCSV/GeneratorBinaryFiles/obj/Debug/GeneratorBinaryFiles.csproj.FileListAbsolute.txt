@@ -56,3 +56,4 @@ D:\_LISTING_\GIT\Prod\ConverterBinaryToCSV\GeneratorBinaryFiles\obj\Debug\Genera
 D:\_LISTING_\GIT\Prod\ConverterBinaryToCSV\GeneratorBinaryFiles\obj\Debug\Generator  binary files.pdb
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\GeneratorBinaryFiles\bin\Debug\Generator  binary files.exe
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\GeneratorBinaryFiles\bin\Debug\Generator  binary files.pdb
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\GeneratorBinaryFiles\obj\Debug\GeneratorBinaryFiles.csprojResolveAssemblyReference.cache
