@@ -1,0 +1,5 @@
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\bin\Debug\Converting_BinaryToCSV.dll.config
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\bin\Debug\Converting_BinaryToCSV.dll
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\bin\Debug\Converting_BinaryToCSV.pdb
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\obj\Debug\Converting_BinaryToCSV.dll
+D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\obj\Debug\Converting_BinaryToCSV.pdb

@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConvertBinaryToCsvLibrary.cs" />
+    <Compile Include="ConvertBinaryToCsv.cs" />
     <Compile Include="IBinaryToCsv.cs" />
     <Compile Include="ProcessMapping.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

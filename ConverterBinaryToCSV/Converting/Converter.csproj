@@ -52,9 +52,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConvertingBinaryToCSV\ConvertingBinaryToCsvLibrary.csproj">
+    <ProjectReference Include="..\ConvertingBinaryToCSV\ConvertingBinaryToCsv.csproj">
       <Project>{83EF9B75-06E0-4F24-8E9E-A3D10D0F25F2}</Project>
-      <Name>ConvertingBinaryToCsvLibrary</Name>
+      <Name>ConvertingBinaryToCsv</Name>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </ProjectReference>
   </ItemGroup>
