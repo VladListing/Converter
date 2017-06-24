@@ -1,17 +1,18 @@
-﻿using System;
+﻿using ConvertingBinaryToCSV;
+using System;
 using System.IO;
 using System.Text;
 using System.Threading;
-using ConvertingBinaryToCsv_Library;
 
 
 
-namespace ConvertingBinaryToCsvLibrary
+
+namespace ConvertingBinaryToCsv
 {
     //библиотека 'ConvertBinaryToCsvLibrary' реализует 
     //чтение из бинарного файла с последующей конвертацией в CSV файл.
 
-    public class ConvertBinaryToCsvLibrary : IBinaryToCsv
+    public class ConvertBinaryToCsv : IBinaryToCsv
     {
         private string pathBinary;   //путь и имя исходного бинарного файла
         private string pathCsv;      //путь и имя конечного Csv файла

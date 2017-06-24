@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="ConvertingBinaryToCsv_Library.ProcessMapping">
+  <Class Name="ConvertingBinaryToCsv_.ProcessMapping">
     <Position X="4" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAACCAAAAAEAAEAABAAQAAAAAA=</HashCode>
       <FileName>ProcessMapping.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ConvertingBinaryToCsvLibrary.ConvertBinaryToCsvLibrary">
-    <Position X="6.5" Y="2.25" Width="1.5" />
+  <Class Name="ConvertingBinaryToCsv.ConvertBinaryToCsv">
+    <Position X="7" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAgAAAAAAAAAAAAAABAAAAAAAEAAAABQAACAgA=</HashCode>
-      <FileName>ConvertBinaryToCsvLibrary.cs</FileName>
+      <FileName>ConvertBinaryToCsv.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Interface Name="ConvertingBinaryToCsvLibrary.IBinaryToCsv">
+  <Interface Name="ConvertingBinaryToCsv.IBinaryToCsv">
     <Position X="5.75" Y="0.5" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>

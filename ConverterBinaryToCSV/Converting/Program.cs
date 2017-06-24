@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-using ConvertingBinaryToCsvLibrary; //подключение конвертирующей библиотеки 
+using ConvertingBinaryToCsv; //подключение конвертирующей библиотеки 
 
 namespace Converting
 {
@@ -18,7 +18,7 @@ namespace Converting
 
             try
             {
-                ConvertBinaryToCsvLibrary convertBinaryToCsvLibrary = new ConvertBinaryToCsvLibrary();
+                ConvertBinaryToCsv convertBinaryToCsvLibrary = new ConvertBinaryToCsv();
 
                 //создаем фоновый поток
                 ThreadStart writeSecond = new ThreadStart(delegate() { convertBinaryToCsvLibrary.FromBinaryFileToCsv(pathBinary, pathCsv); });

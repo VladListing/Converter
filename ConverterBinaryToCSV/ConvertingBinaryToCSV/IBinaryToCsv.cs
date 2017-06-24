@@ -1,4 +1,4 @@
-﻿namespace ConvertingBinaryToCsvLibrary
+﻿namespace ConvertingBinaryToCsv
 {
     //интерфейс 'IBinaryToCsv'
 

@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.IO;
 
-namespace ConvertingBinaryToCsv_Library
+namespace ConvertingBinaryToCSV
 {
     //класс 'processMapping' отображение процента выполнения 
     //текущего процесса конвертации (загрузки) в процентах.
@@ -14,7 +17,7 @@ namespace ConvertingBinaryToCsv_Library
         private long counter = 0;          //счетчик проходов.
         private long finalValue = 0;       //текущий размер конечного файла.
 
-        public void processMappingInPercent(long initialValue, string pathFinalValue, double correctionValue , bool mode)
+        public void processMappingInPercent(long initialValue, string pathFinalValue, double correctionValue, bool mode)
         {
             counter = counter + 1;
             counter1 = counter1 + 1;
@@ -40,7 +43,7 @@ namespace ConvertingBinaryToCsv_Library
                 {
                     finalValue = counter;
                 }
-                               
+
                 processPercent = (((finalValue / correctionValue) * 100) / initialValue);
                 if (processPercent > 98)
                 {
@@ -50,7 +53,7 @@ namespace ConvertingBinaryToCsv_Library
                 Console.Write("выполнено: {0} % ", Math.Truncate(processPercent));
                 counter1 = 0;
             }
-            else { }        
+            else { }
         }
     }
 }
