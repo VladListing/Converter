@@ -48,6 +48,5 @@ D:\_LISTING_\GIT\Prod\Converting\ConverterBinaryToCSV\ConvertingBinaryToCSV\obj\
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\bin\Debug\Converting_BinaryToCSV.dll.config
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\bin\Debug\Converting_BinaryToCSV.dll
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\bin\Debug\Converting_BinaryToCSV.pdb
-D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\obj\Debug\ConvertingBinaryToCsvLibrary.csprojResolveAssemblyReference.cache
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\obj\Debug\Converting_BinaryToCSV.dll
 D:\_LISTING_\GIT\Prod\Converter\ConverterBinaryToCSV\ConvertingBinaryToCSV\obj\Debug\Converting_BinaryToCSV.pdb
