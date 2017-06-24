@@ -3,8 +3,9 @@ using System.IO;
 using System.Runtime.InteropServices;
 
 namespace GeneratorBinaryFiles
-
-// класс 'BinaryFiles' генерирует бинарные файлы с заданым количеством строк.
+///<symmary>
+/// класс 'BinaryFiles' генерирует бинарные файлы с заданым количеством строк.
+///<symmary>
 {
     class BinaryFiles
     {

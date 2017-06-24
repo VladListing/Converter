@@ -14,6 +14,7 @@ namespace GeneratorBinaryFiles
         private int number = 0;         //номер варианта случайной строки
         private int profit = 0;         //сумма по прибыльной сделки
         private int loss = 0;           //сумма по убыточной сделке
+
         public string GetCommentRandom()
         {
             number = r.Next(0, 6);
